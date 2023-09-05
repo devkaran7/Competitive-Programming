@@ -1,4 +1,4 @@
-class lazysegmenttree{
+class LazySegmentTree{
     vector<int> seg, lazy;
 public:
     lazysegmenttree(int n){
